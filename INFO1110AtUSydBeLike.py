@@ -10,11 +10,7 @@ suffer = input("Commence suffering? (y/n) ")
 if len(suffer) != 0:
     print("You have no choice")
 
-print("error is not with suffer prompt")
-
 braincells = int(input("How many brain cells do you have? "))
-
-print("error is not with braincells prompt")
 
 studying = True
 while studying:
