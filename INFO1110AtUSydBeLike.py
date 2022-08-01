@@ -5,7 +5,7 @@ Human brain have 86 billion brain cells
 The suffering known as studying for uni consumes brain cells (not true)
 """)
 
-input("Commence suffering?")
+a = input("Commence suffering?")
 braincells = int(input("How many brain cells do you have? "))
 studying = True
 while studying:
