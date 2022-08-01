@@ -3,7 +3,7 @@ created as a little warm up for INFO1110 2022 S2 at USyd
 
 HOWTO:
 
-copy the following command
+copy the following code
 
 ```python
 wget -q https://raw.githubusercontent.com/le0-VV/INFO1110ShitPost/main/INFO1110AtUSydBeLike.py
