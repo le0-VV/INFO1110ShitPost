@@ -7,7 +7,7 @@ The suffering known as studying for uni consumes brain cells (not true)
 
 suffer = input("Commence suffering? (y/n) ")
 
-if not(suffer == "y" or suffer == "Y"):
+if len(suffer) != 0:
     print("You have no choice")
 
 braincells = int(input("How many brain cells do you have? "))
