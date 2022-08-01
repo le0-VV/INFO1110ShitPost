@@ -10,6 +10,8 @@ The suffering known as studying for uni consumes brain cells (not true)
 # if len(suffer) != 0:
 #    print("You have no choice")
 
+print("error is not with suffer prompt")
+
 braincells = int(input("How many brain cells do you have? "))
 studying = True
 while studying:
