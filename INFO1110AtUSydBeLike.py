@@ -5,10 +5,10 @@ Human brain have 86 billion brain cells
 The suffering known as studying for uni consumes brain cells (not true)
 """)
 
-suffer = input("Commence suffering? (y/n) ")
+# suffer = input("Commence suffering? (y/n) ")
 
-if len(suffer) != 0:
-    print("You have no choice")
+# if len(suffer) != 0:
+#    print("You have no choice")
 
 braincells = int(input("How many brain cells do you have? "))
 studying = True
